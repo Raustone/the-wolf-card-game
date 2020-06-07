@@ -1,5 +1,6 @@
 # The Wolf Card Game
 Jeu de cartes, inspiré du jeu du Loup Garou de Thiercelieux.
+Il est recommandé d'imprimmer les cartes en 8.5cm par 8.5cm.
 
 # Personnages :
 - Mayor (Maire)
