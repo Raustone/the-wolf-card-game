@@ -29,3 +29,4 @@ Il est recommandé d'imprimmer les cartes en 8.5cm par 8.5cm.
 - Rusty Knight with a Rusty Sword (Chevalier à l'épée rouillée)
 - Abominable Sectarian (Abominable Sectaire)
 - Big Bad Wolf (Grand Méchant Loup)
+- Survivor (Survivant)
